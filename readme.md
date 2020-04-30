@@ -19,3 +19,5 @@ A | B
 C| D
 ## Screenshot
 ![1](https://github.com/csci3251-2020/student-1155125754/blob/master/1.png)
+![2](https://github.com/csci3251-2020/student-1155125754/blob/master/2.png)
+![3](https://github.com/csci3251-2020/student-1155125754/blob/master/3.png)
