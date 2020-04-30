@@ -18,4 +18,4 @@ Good to see you:wave:| Bye for now:wave:
 A | B
 C| D
 ## Screenshot
-![1](https://ibb.co/JQfn7T7.jpg)
+![1](https://github.com/csci3251-2020/student-1155125754/blob/master/1.png)
