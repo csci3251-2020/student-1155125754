@@ -18,4 +18,4 @@ Good to see you:wave:| Bye for now:wave:
 A | B
 C| D
 ## Screenshot
-![1](https://ibb.co/JQfn7T7)
+![1](https://octodex.github.com/images/yaktocat.png)
